@@ -1,0 +1,24 @@
+﻿\def\labeluniversity{培养单位}
+\def\labeltitle{题目}
+\def\labelENGtitle{Title}
+\def\labelauthor{作者}
+\def\labelENGauthor{Author}
+\def\labelaccomplishdate{完成日期}
+\def\labelschool{学院}
+\def\labelsupervisor{指导教师}
+\def\labelENGsupervisor{Supervisor}
+\def\labelmajor{专业}
+\def\labelENGmajor{Subject}
+\def\labeldirection{研究方向}
+\def\labeldefensedate{授予学位日期}
+
+\def\CHSabstractname{摘要}
+\def\ENGabstractname{Abstract}
+\def\university{四\hspace{0.5em}川\hspace{0.5em}大\hspace{0.5em}学}
+\def\universitynormal{四川大学}
+\def\universityname{四川大学}
+\def\ENGuniversity{Sichuan University}
+
+
+
+\endinput
