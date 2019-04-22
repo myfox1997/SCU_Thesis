@@ -20,7 +20,7 @@ http://www.tablesgenerator.com
 
 
 如果你没啥问题了，Can I have 5 star? 
-OR U COULD FIND SOME INTERESTING IN: https://www.ishowu.cn
+OR U COULD FIND SOME INTERESTING THINGS IN: https://www.ishowu.cn
 
 
 Written by WangT
